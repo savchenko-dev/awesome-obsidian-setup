@@ -27,6 +27,16 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
+  "Projects": "💼",
+  "Products": "💰",
+  "Knowlage": "📂",
+  "Goals": "🎯",
+  "Learning": "🧠",
+  "Saved": "📌",
+  "Side Hustle": "💰",
+  "Wisdom": "💎",
+  "Books": "📚",
   "Home.md": "🏠",
-  "Category": "💼"
+  "Contacts": "👤",
+  "Notes": "📔"
 }

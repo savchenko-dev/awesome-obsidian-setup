@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90df942221d97040",
+        "id": "72468214268d23e3",
         "type": "tabs",
         "children": [
           {
-            "id": "cb0412c6e58eafd2",
+            "id": "c5418952c23c3ba6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -156,7 +156,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "file-tree-alternative:File Tree Alternative Plugin": false,
       "audio-recorder:Start/stop recording": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,25 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "cmdr:Templates: Insert template": false
+      "cmdr:Git: Commit all changes": false,
+      "cmdr:Git: Push": false
     }
   },
-  "active": "cb0412c6e58eafd2",
+  "active": "7888c0f99a8d4cf2",
   "lastOpenFiles": [
-    "Category/Topic/Any Note.md",
-    "_/_templates/Contact Template.md",
-    "Category/Topic",
-    "Home.md",
-    "_/_media_/160_example_1_1.png",
-    "_/_media_/word3.jpg",
-    "_/_files_/09089CB2-F9CB-46D1-B8B1-E80BE208A9B8.png",
-    "Wisdom/Make Connections.md",
+    "Saved/AI - news.md",
     "Saved/12 Factor Methodology.md",
-    "Notes/Отрытые двери.md",
-    "Goals/0️⃣ Self Control.md",
-    "Contacts/Akbar Alzhanov.md",
+    "Home.md",
     "Products/Courses/DSA/DSA.md",
     "Projects/Growave/GROWAVE.md",
     "Knowlage/DSA/Data Structures/Array.md",
@@ -208,17 +200,26 @@
     "_/_media_/img-2.png",
     "_/_media_/img-1.png",
     "_/_media_/img.png",
+    "_/_files_/09089CB2-F9CB-46D1-B8B1-E80BE208A9B8.png",
     "_/_files_/queue-explanation.mp4",
     "Projects/💡 Ideas.md",
     "Projects/Booking Widget/Booking Widget.md",
     "Projects/CloudComments/CloudComments.md",
+    "Projects/CloudComments/Notes/Email Service.md",
+    "Projects/CloudComments/Features/Reviews.md",
+    "Wisdom/What is Sin.md",
+    "Wisdom/Make Connections.md",
+    "Wisdom/Own Data.md",
+    "_/_files_/Pasted image 20240221153227.png",
+    "_/_media_/ui-without-optimistic.png",
     "_/_files_/rate-complexity-algorithms.mp4",
     "_/_files_/algorithms-what-and-why.mp4",
     "_",
     "_/_templates",
     "te.me",
-    "Category 2",
+    "Contacts",
     "Knowlage/Browsers",
+    "Products/Browser",
     "Untitled.canvas",
     "Products/DSA/Roadmap of DSA.canvas"
   ]

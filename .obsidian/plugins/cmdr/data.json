@@ -6,10 +6,16 @@
   "fileMenu": [],
   "leftRibbon": [
     {
-      "id": "insert-template",
-      "icon": "lucide-copy",
-      "name": "Templates: Insert template",
-      "mode": "a7c6b0ab70d6db47"
+      "id": "obsidian-git:commit",
+      "icon": "check-circle",
+      "name": "Git: Commit all changes",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "upload-cloud",
+      "name": "Git: Push",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
