@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "497558a5ab66d361",
+    "type": "split",
+    "children": [
+      {
+        "id": "90df942221d97040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb0412c6e58eafd2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "039220ae37622e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c59b647d4d5100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7888c0f99a8d4cf2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c66979f767ad8fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3fa9d5d8aeca547",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1adbdb70df28a33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "14dab7e2755275eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "533c2f853d2d302b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c51083c807b3f3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ff75a262a896591",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dd582a1236d7349",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8ba4921d586df52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "b062a72f09dd3572",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "cmdr:Templates: Insert template": false
+    }
+  },
+  "active": "cb0412c6e58eafd2",
+  "lastOpenFiles": [
+    "Category/Topic/Any Note.md",
+    "_/_templates/Contact Template.md",
+    "Category/Topic",
+    "Home.md",
+    "_/_media_/160_example_1_1.png",
+    "_/_media_/word3.jpg",
+    "_/_files_/09089CB2-F9CB-46D1-B8B1-E80BE208A9B8.png",
+    "Wisdom/Make Connections.md",
+    "Saved/12 Factor Methodology.md",
+    "Notes/Отрытые двери.md",
+    "Goals/0️⃣ Self Control.md",
+    "Contacts/Akbar Alzhanov.md",
+    "Products/Courses/DSA/DSA.md",
+    "Projects/Growave/GROWAVE.md",
+    "Knowlage/DSA/Data Structures/Array.md",
+    "Goals/1️⃣ My First Apartment.md",
+    "Projects/Growave/Storefront/Apps/Wishlist/Tasks/Redesign.md",
+    "Projects/Growave/Storefront/Apps/Wishlist/Tasks",
+    "Projects/Growave/Storefront/Apps/Wishlist/Widgets/Add To Wishlist Product Card Button.md",
+    "Projects/Growave/Storefront/Apps/Wishlist/Widgets/Add To Wishlist Product Page Button.md",
+    "Projects/Growave/Storefront/Apps/Wishlist/Widgets/Go To Wishlist Page Header Button.md",
+    "Projects/Growave/Storefront/Apps/Wishlist/Widgets/Wishlist Page.md",
+    "Saved/English.md",
+    "Projects/Growave/Storefront/Apps/Wishlist/Widgets/Wishlist Drawer.md",
+    "_/_files_/Pasted image 20240222133400.png",
+    "Projects/Growave/Storefront/Apps/Wishlist/Wishlist.md",
+    "Projects/Growave/Storefront/Apps/Wishlist/Features/Branding.md",
+    "Projects/Growave/Storefront/Apps/Wishlist/Features/Multi Language.md",
+    "Projects/CloudComments/Features/Custom Design.md",
+    "_/_media_/inorder_1.jpg",
+    "_/_media_/img-4.png",
+    "_/_media_/img-3.png",
+    "_/_media_/img-2.png",
+    "_/_media_/img-1.png",
+    "_/_media_/img.png",
+    "_/_files_/queue-explanation.mp4",
+    "Projects/💡 Ideas.md",
+    "Projects/Booking Widget/Booking Widget.md",
+    "Projects/CloudComments/CloudComments.md",
+    "_/_files_/rate-complexity-algorithms.mp4",
+    "_/_files_/algorithms-what-and-why.mp4",
+    "_",
+    "_/_templates",
+    "te.me",
+    "Category 2",
+    "Knowlage/Browsers",
+    "Untitled.canvas",
+    "Products/DSA/Roadmap of DSA.canvas"
+  ]
+}

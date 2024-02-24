@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "77dbed98750b779c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ba00dfd6d4cc807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a35f855b78e3def4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "77e5cb70d352a794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/CloudComments/CloudComments.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcd3d45f87bfa130",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "862a47af791dfe6b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "37c3216aaa73a15a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "01344b5dc9d39a28",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fd7ee5d0ad0330a2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "b003aba556d2288f",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3d91c7d85311d116",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ed154163be02da6e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Projects/CloudComments/CloudComments.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2e691e3e275e07ee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Projects/CloudComments/CloudComments.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "133442a008971b53",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Projects/CloudComments/CloudComments.md"
+          }
+        }
+      },
+      {
+        "id": "281d02408c062961",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "9f002b81874da53e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "77e5cb70d352a794",
+  "lastOpenFiles": [
+    "Home.md",
+    "Products/Courses/DSA/DSA.md",
+    "Side Hustle/Tilda/Cart Payment Methods/Cart Payment Methods.md",
+    "Products/Courses",
+    "Saved/English.md",
+    "_/_files_/Pasted image 20240222133400.png",
+    "Saved/Frontend.md",
+    "Saved/Patterns.md",
+    "Saved/Roadmaps.md",
+    "Saved/AI Tools.md",
+    "Saved/Problems To Solve.md",
+    "_/_media_/img-4.png",
+    "_/_media_/inorder_1.jpg",
+    "_/_media_/img.png",
+    "_/_media_/img-2.png",
+    "_/_media_/img-1.png",
+    "_/_media_/img-3.png",
+    "Projects/CloudComments/CloudComments.md",
+    "Projects/CloudComments/Features/Social Login.md",
+    "Projects/CloudComments/Email Service.md",
+    "Books/Rick Joyner - Final Quest/Part 1.md",
+    "_/_files_/Pasted image 20240221153227.png",
+    "Wisdom/What is Sin.md",
+    "Books/Bible/Galatians",
+    "Books/Rick Joyner - Final Quest/Intro.md",
+    "Saved/Books.md",
+    "Books/Rick Joyner - Final Quest/Part 5.md",
+    "Books/Rick Joyner - Final Quest/Part 4.md",
+    "Books/Rick Joyner - Final Quest/Part 3.md",
+    "Books/Rick Joyner - Final Quest/Part 2.md",
+    "Books/Bible/Colossians/Colossians, 1.md",
+    "Books/Rick Joyner - Final Quest",
+    "Notes",
+    "Projects/CloudComments/Storefront/Widgets/Product Rating.md",
+    "Projects/Growave/Notes/Portal With Shadow Root.md",
+    "Books/Bible/Colossians/Colossians, 4.md",
+    "Books/Bible/Colossians/Colossians, 3.md",
+    "Books/Bible/Colossians/Colossians, 2.md",
+    "Knowlage/Browsers",
+    "Books/Bible/Colossians",
+    "Products/Courses",
+    "Products/JS Engine",
+    "Products/Browser/Untitled",
+    "Products/Courses/Browser",
+    "_files_/Pasted image 20240208164809.png",
+    "_files_/Pasted image 20240207194221.png"
+  ]
+}
